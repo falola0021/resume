@@ -11,21 +11,14 @@
     "address": {
       "street": "Lagos,",
       "city": "Nigeria"
-    
-     
     },
     "website": "",
     "resumedownload": "./resumeFile/Adedayo_resume.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCae54zSudWYLCsb28HzaxhQ/videos",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://web.facebook.com/falola2/",
-        "className": "fa fa-facebook"
+        "name": "github",
+        "url": "https://github.com/falola0021",
+        "className": "fa fa-github"
       },
       {
         "name": "linkedin",
@@ -33,14 +26,15 @@
         "className": "fa fa-linkedin"
       },
       {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCae54zSudWYLCsb28HzaxhQ/videos",
+        "className": "fa fa-youtube"
+      },
+
+      {
         "name": "instagram",
         "url": "https://www.instagram.com/codefunn/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/falola0021",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -56,10 +50,28 @@
     ],
     "work": [
       {
+        "company": "Seerbit",
+        "title": "Mobile App Developer",
+        "years": "June 2022 - Present",
+        "description": "Developing new features and user interfaces from wireframe models."
+      },
+      {
         "company": "Halo Invest",
         "title": "Web and Mobile App Developer",
-        "years": "November 2021 - Present",
+        "years": "March 2021 - April 2022 ",
         "description": "Building optimized user interface for both web and cross platforms mobile apps."
+      },
+      {
+        "company": "Cars45",
+        "title": "Web and Mobile App Developer",
+        "years": "Feb 2020 - April 2021 ",
+        "description": "Building optimized user interface for both web and cross platforms mobile apps."
+      },
+      {
+        "company": "GIGM",
+        "title": "Web Developer",
+        "years": "March 2019 - March 2020 ",
+        "description": "Build and optimize a secure web page for evolving business needs."
       }
     ],
     "skills": [
@@ -69,6 +81,14 @@
       },
       {
         "name": "React Native",
+        "level": "90%"
+      },
+      {
+        "name": "CSS/SASS/SCSS/CSS MODULES",
+        "level": "90%"
+      },
+      {
+        "name": "Typescript",
         "level": "85%"
       },
       {
@@ -79,19 +99,39 @@
         "name": "JavaScript",
         "level": "95%"
       },
+
       {
-        "name": "Web Development",
-        "level": "75%"
+        "name": "UI/UX Tools(figma,Adobe XD )",
+        "level": "95%"
       },
       {
-        "name": "UI/UX",
-        "level": "95%"
+        "name": "Testing",
+        "level": "80%"
+      },
+      {
+        "name": "Agile Tools(Jira , Trello,Slack,iNVISION)",
+        "level": "70%"
+      },
+      {
+        "name": "NODE JS",
+        "level": "30%"
       }
-    
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Bank9ja (React Native)",
+        "category": "",
+        "image": "bank9ja.png",
+        "url": "https://play.google.com/store/search?q=bank9ja&c=apps"
+      },
+      {
+        "title": "Halo Mobile App (React Native)",
+        "category": "",
+        "image": "halo.png",
+        "url": "https://www.haloasset.com/"
+      },
       {
         "title": "Virtual banking (React JS)",
         "category": "",
@@ -104,7 +144,7 @@
         "image": "haloweb.jpeg",
         "url": "https://play.google.com/store/apps/details?id=com.haloinvest.app"
       },
-     
+
       {
         "title": "Car listing platform (React JS)",
         "category": "",
@@ -117,7 +157,6 @@
         "image": "cheese.jpeg",
         "url": "https://cheese-b86d1.web.app/"
       }
-      
     ]
   },
   "testimonials": {
